@@ -1,5 +1,5 @@
 /target/
 /.settings/
-.gitignore
-.project
-.classpath
+/.gitignore
+/.project
+/.classpath
